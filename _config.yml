@@ -1,0 +1,22 @@
+typography_spectrum: 0.7970981595572084
+color:
+  brandStrength: 0.6653028326109052
+  lightness: 0.5505627219099551
+  saturation: 0.642230546567589
+  rhythmicContrast: 0.5073886604513973
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+github: true
+layout_spectrum: 0.5722564670722932
+name: alvaro de la herran
+title: Álvaro de la Herrán | Film Director
+content: []
+description: 'Hi, welcome to my website.'
+purpose:
+  - type: contact
+    url: 'mailto:contact@alvarodelaherran.com'
+    label: Contact me
